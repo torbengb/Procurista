@@ -4,7 +4,7 @@ A shopping list that learns your habits
 Development: 
 [![GitHub open issues](https://img.shields.io/github/issues-raw/torbengb/Procurista.svg)](https://github.com/torbengb/Procurista/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/torbengb/Procurista.svg)](https://github.com/torbengb/Procurista/commits/develop)
-[![Join the chat at https://gitter.im/Procurista/Lobby](https://badges.gitter.im/github-release-notes/Lobby.svg)](https://gitter.im/bank2ynab/Lobby)
+[![Join the chat at https://gitter.im/Procurista/Lobby](https://badges.gitter.im/Procurista/Lobby.svg)](https://gitter.im/Procurista/Lobby)
 
 - [What? (Features)](#what)
   - [Wish List](#wishlist)
