@@ -6,6 +6,10 @@ Development:
 [![GitHub last commit](https://img.shields.io/github/last-commit/torbengb/Procurista.svg)](https://github.com/torbengb/Procurista/commits/develop)
 [![Join the chat at https://gitter.im/Procurista/Lobby](https://badges.gitter.im/Procurista/Lobby.svg)](https://gitter.im/Procurista/Lobby)
 
+Testing:
+[![CircleCI Status](https://circleci.com/gh/torbengb/Procurista/tree/develop.svg?style=shield)](https://circleci.com/gh/torbengb/Procurista/tree/develop)
+
+
 - [What? (Features)](#what)
   - [Wish List](#wishlist)
 - [Why?](#why)
