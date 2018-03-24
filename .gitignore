@@ -1,0 +1,13 @@
+# https://stackoverflow.com/questions/10728956/what-should-i-put-in-a-meteor-gitignore-file
+
+# default meteor build and local packages:
+.meteor/local/*
+node_modules/*
+public/node_modules/*
+packages/*/.npm/
+
+# meteor settings file:
+settings.json
+
+# meteor build output files:
+*.tar.gz
